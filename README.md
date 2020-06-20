@@ -20,29 +20,29 @@
 * We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
 * We avoid using offensive topics as a form of humor.
 
-### We actively work towards:
+### Nous travaillons activement à :
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+* Etre une communauté sûre
+* Développer un réseau de soutien et d'encouragement pour tous
+* Encourager l'utilisation d'une forme d'expression variée et responsable 
 
-### We condemn:
+### Nous condamnons :
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment
-* Anything that compromises people’s safety
-* Personal attacks
+* Le traquage, le doxxing, et la divulgation d'informations privées
+* Les menaces de préjudices, le harcèlement
+* Tout ce qui peut compromettre la sécurité d'une personne
+* Les attaques personnelles
 
-**These things are NOT OK.**
+**Ces comportements ne sont pas acceptables.**
 
-### If you say something that is found offensive, and you are called out on it, let’s:
+### Si tu dis quelque chose qui est jugé offensant, et qu'on te le fait remarquer, alors :
 
-* Listen without interruption.
-* Believe what the person is saying & do not attempt to disqualify what they have to say.
-* Ask for tips / help with avoiding making the offense in the future.
-* Apologize and ask forgiveness.
+* Ecoutons sans interrompre
+* Faisons confiance en ce que la personne dit et n'essayons pas de discréditer ce qu'elle a à dire
+* Demandons des conseils / de l'aide pour éviter de commettre une nouvelle infraction
+* Présentons nos excuses et demandons pardon
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the Slack. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du Slack. En cas de récidive ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement ce Slack.
 
 ### Privacy
 * All conversations are private unless otherwise specified. 
