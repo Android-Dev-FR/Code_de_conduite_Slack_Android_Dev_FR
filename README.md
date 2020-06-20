@@ -1,24 +1,36 @@
-*This policy is a "living" document, and subject to refinement and expansion in the future.*
+# Charte de bonne conduite du groupe slack Android Dev FR
 
-## Code of Conduct
+*Ce document n'est pas gravé dans le marbre et est sujet à évolution et amélioration dans le temps.*
 
-### The **Android Study Group Slack** should be a safe place for everybody regardless of
+## Objectif du groupe 
 
-- gender, gender identity or gender expression 
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
+Le groupe slack *Android Dev FR* est une communauté rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de également de rencontrer d'autres personnes exerçant le même métier.
 
-### As someone who is part of this Slack, you agree that:
+C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
+Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses à propos de la sexualité / race / religion / nationalité / morphologie.
 
+## Charte de bonne conduite
+
+
+### Le groupe slack *Android Dev FR* est un endroit sûr pour tout le monde quelque soit 
+* son genre
+* son orientation sexuelle
+* son handicape
+* son apparence physique 
+* sa race
+* son age
+* sa religion
+
+### En tant que membre de ce groupe Slack, tu acceptes que : 
+* Nous nous engageons collectivement et individuellement à en faire un endroit sûr et inclusif. 
+* Nous ne tolérons aucune insulte, agression ou discrimation quelles qu'elles soient.
+* Nous respections l'identité des personnes.
+* Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppresif par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale. 
 * We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs.
-* We avoid using offensive topics as a form of humor.
+* Nous n'acceptons pas l'humour ou le *troll* sur ces sujets.
+* Nous nous abstenons d'aborder des sujets liés à la politique par respect pour les opinions de chacun. De plus il existe d'autres endroit plus propice à partager sur ce genre de sujet : Twitter, un slack politique ou un repas de famille 😆
+
+
 
 ### We actively work towards:
 
