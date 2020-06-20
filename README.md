@@ -4,7 +4,7 @@
 
 ## Objectif du groupe 
 
-Le groupe slack *Android Dev FR* est une communauté rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de également de rencontrer d'autres personnes exerçant le même métier.
+Le groupe slack *Android Dev FR* est une communauté rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d'autres personnes exerçant le même métier.
 
 C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
 Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses à propos de la sexualité / race / religion / nationalité / morphologie.
@@ -15,7 +15,7 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 ### Le groupe slack *Android Dev FR* est un endroit sûr pour tout le monde quelque soit 
 * son genre
 * son orientation sexuelle
-* son handicape
+* son handicap
 * son apparence physique 
 * sa race
 * son age
@@ -24,9 +24,8 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 ### En tant que membre de ce groupe Slack, tu acceptes que : 
 * Nous nous engageons collectivement et individuellement à en faire un endroit sûr et inclusif. 
 * Nous ne tolérons aucune insulte, agression ou discrimation quelles qu'elles soient.
-* Nous respections l'identité des personnes.
+* Nous respectons l'identité des personnes.
 * Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppresif par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale. 
-* We are collectively and individually committed to safety and inclusivity.
 * Nous n'acceptons pas l'humour ou le *troll* sur ces sujets.
 * Nous nous abstenons d'aborder des sujets liés à la politique par respect pour les opinions de chacun. De plus il existe d'autres endroit plus propice à partager sur ce genre de sujet : Twitter, un slack politique ou un repas de famille 😆
 
