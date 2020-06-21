@@ -108,7 +108,7 @@ Voici une liste d'actions non exhaustives que les administrateurs se réservent 
 * Supprimer un ou plusieurs messages voir supprimer un thread complet
 * Banir temporairement ou définitivement une personne
 
-Les admins peuvent agir suite au signalement d'un comportement inadéquate par un ou plusieurs membres du groupe, ou de leur propre chef.
+Les admins peuvent agir suite au signalement d'un comportement inadéquat par un ou plusieurs membres du groupe, ou de leur propre chef.
 
 #### Les règles de la communication non violente
 
