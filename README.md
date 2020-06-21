@@ -99,7 +99,7 @@ When answering questions, avoid condescending language or impatience. We are all
 ## Modération par les administrateurs
 
 Face à un comportement non adéquate d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble approprié.
-Cela va d'un simple avertissement à l'exclusion du groupe.
+Cela va d'un simple avertissement à la désactivation du compte.
 
 Voici une liste d'actions non exhaustives que les administrateurs se réservent le droit de faire : 
 * Demander à une personne de reformuler ses propos en faisant preuve de communication non violente*.
