@@ -113,6 +113,6 @@ Les admins peuvent agir suite au signalement d'un comportement inadéquate par u
 #### Les régles de la communication non violente
 
 1. Observer sans juger
-2. Partager son ressenti en disant "Je"
+2. Partager son ressenti en disant "Je" (pour marquer la subjectivité)
 3. Exprimer son besoin
 4. Demander sans exiger
