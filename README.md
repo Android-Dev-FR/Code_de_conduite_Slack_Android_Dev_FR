@@ -105,7 +105,7 @@ Voici une liste d'actions non exhaustives que les administrateurs se réservent 
 * Demander à une personne de reformuler ses propos en faisant preuve de communication non violente*.
 * Demander à une personne de s'excuser
 * Demander publiquement ou en privé à une personne de cesser les échanges sur un sujet considéré comme une entrave à cette charte
-* Supprimer un ou plusieurs messages voir supprimer un thread complet
+* Supprimer un ou plusieurs messages, voire supprimer un thread complet
 * Banir temporairement ou définitivement une personne
 
 Les admins peuvent agir suite au signalement d'un comportement inadéquat par un ou plusieurs membres du groupe, ou de leur propre chef.
