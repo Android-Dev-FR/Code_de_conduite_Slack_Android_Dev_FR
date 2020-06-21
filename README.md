@@ -110,7 +110,7 @@ Voici une liste d'actions non exhaustives que les administrateurs se réservent 
 
 Les admins peuvent agir suite au signalement d'un comportement inadéquate par un ou plusieurs membres du groupe, ou de leur propre chef.
 
-#### Les régles de la communication non violente
+#### Les règles de la communication non violente
 
 1. Observer sans juger
 2. Partager son ressenti en disant "Je" (pour marquer la subjectivité)
