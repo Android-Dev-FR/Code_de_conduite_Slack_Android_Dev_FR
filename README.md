@@ -57,7 +57,7 @@ Failing to follow the community guidelines as described in this document carries
 **Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité, faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
 N'hésitez pas à contacter un autre administrateur en cas de non réponse, ou de non action.
 
-Voici la liste des administracteurs ainsi que leurs identifiants Slack
+Voici la liste des administrateurs ainsi que leurs identifiants Slack
 
 * Florent Champigny - @Florent Champigny 
 * Louis CAD - @LouisCAD
