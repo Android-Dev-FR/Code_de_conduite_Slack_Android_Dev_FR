@@ -4,10 +4,10 @@
 
 ## Objectif du groupe 
 
-Le groupe slack *Android Dev FR* est une communauté **francophone** rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d'autres personnes exerçant le même métier.
+Le groupe slack *Android Dev FR* est une communauté **francophone** rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant le même intérêt.
 
 C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
-Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses à propos de la sexualité / race / religion / nationalité / morphologie.
+Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie.
 
 ## Charte de bonne conduite
 
@@ -49,7 +49,7 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 * Ecoute sans interrompre.
 * Crois ce que la personne dit et n'essaye pas de discréditer ce qu'elle a à dire.
 * Demande des conseils / de l'aide pour éviter de commettre une nouvelle infraction.
-* Présente tes excuses et demande le pardon.
+* Présente tes excuses et demande pardon.
 
 Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du Slack. En cas de récidive, ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement ce Slack.
 
@@ -73,13 +73,13 @@ Voici la liste des administrateurs ainsi que leurs identifiants Slack
 * Benjamin Gonin - @benju
 * Antonin Fouques - @CmoaToto
 
-*Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
+*Le rôle d'un administrateur est d'être un médiateur impartial, il ne modére ni n'édite rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
 ### 7. Slack
 
 #### Utilisation de Slack
 
-N'oubliez pas que nombreux membres de Slack ont l'application ouverte pendant leur journée de travail, ou installé sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
+N'oubliez pas que nombreux membres de Slack ont l'application ouverte pendant leur journée de travail, ou installée sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
 
 Pour toute question concernant le slack, un channel dédié #slack-requests vous permettra d'y obtenir des réponses.
 
@@ -91,11 +91,11 @@ Lorsque vous répondez à des questions, évitez d'avoir des propos condescendan
 
 ### 8. Modération par les administrateurs
 
-Face à un comportement non adéquate d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble approprié.
+Face à un comportement non adéquate d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble appropriée.
 Cela va d'un simple avertissement à la désactivation du compte.
 
 Voici une liste d'actions non exhaustives que les administrateurs se réservent le droit de faire : 
-* Demander à une personne de reformuler ses propos en faisant preuve de communication non violente*.
+* Demander à une personne de reformuler ses propos en suivant les concepts de la communication non violente*.
 * Demander à une personne de s'excuser
 * Demander publiquement ou en privé à une personne de cesser les échanges sur un sujet considéré comme une entrave à cette charte
 * Supprimer un ou plusieurs messages, voire supprimer un thread complet
@@ -103,7 +103,7 @@ Voici une liste d'actions non exhaustives que les administrateurs se réservent 
 
 Les admins peuvent agir suite au signalement d'un comportement inadéquat par un ou plusieurs membres du groupe, ou de leur propre chef.
 
-#### \*Les règles de la communication non violente
+#### \*Les concepts de base de la communication non violente
 
 1. Observer sans juger
 2. Partager son ressenti en disant "Je" (pour marquer la subjectivité)
