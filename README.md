@@ -67,7 +67,6 @@ Voici la liste des administracteurs ainsi que leurs identifiants Slack
 * Eyal Lezmy - @eyal
 * Benjamin Gonin - @benju
 * Antonin Fouques - @CmoaToto
-* Amaël Sikel - @r4dixx
 
 *Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien écrit dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
