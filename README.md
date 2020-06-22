@@ -54,33 +54,21 @@ Failing to follow the community guidelines as described in this document carries
 * Before asking any questions, please check if there's a channel for it before asking in #android-general
 * Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, let a moderator know. Here is a list of the current admins and their Slack IDs:**
+**Si vous trouvez qu'un utilisateur ne respecte pas la charte, que vous vous sentez offensé, harcelé, discriminé, n'hésitez pas à contacter nos administrateurs, ils prendront la parole à votre place et mettront un terme aux conflicts.**
 
-* Adrienne Park - @adrienne
-* Chiu-Ki Chan - @chiuki
-* Corey Latislaw - @colabug
-* Danny Roa - @dannyroa
-* Erik Hellman - @hellman
-* Garima Jain - @ragdroid
-* Grantland Chew - @grantland
-* Jake Ouellette - @jakeout
-* Maria Neumayer - @maria
-* Mike Evans - @michael.evans
-* Mike Nakhimovich - @FriendlyMike 
-* Sam Wolfand - @Sam
-* Zarah Dominguez - @zarah
+Voici la liste des administracteurs ainsi que leurs identifiants Slack
 
-*The role of the admins is to be an unbiased mediator, they will not moderate or edit anything written in the Slack unless it is required as a result of a discussed dispute.*
+* Florent Champigny - @Florent Champigny 
+* Louis CAD - @LouisCAD
+* Kevin de Jesus Ferreira - @Kevin DJFK 
+* Mikhael Lopez - @LopsPower 
+* Fanny Demey - @FannyDemey 
+* Eyal Lemzy - @eyal
+* Benjamin Gonin - @benju
+* Antonin Fouques - @CmoaToto
+* Amaël Sikel - @r4dixx
 
-## Member Nomination  
-
-To nominate someone to join the Android Study Group, log in the [ASG web page](https://asgweb.herokuapp.com/) with your Android Study Group slack account, go in the **Nominate** page, and fill in the form with your name, their name and info, and why you are nominating them. You'll need to have been a member of Android Study Group for 30 or more days to be able to nominate someone. 
-
-This study group is for people actively involved in creating Android applications professionally. This includes people like software engineers and designers, and excludes people like journalists or recruiters. The admins will take into consideration the amount of time the nominee has spent working on Android (at least 1 year is ideal). Other helpful data points include the company where they work (if applicable), apps they have built, and their contributions to the Android community (via open source software, meetups, blog posts, etc). Membership is determined by a vote from the admins, who will then send out an invitation to the nominee.
-
-If there is any person you would like to keep out of the study group for any reason, message one of the admins.  
-
-Because this Slack group is representative of the community, admins reserve the right to deny admission or revoke membership based on CoC violating behavior outside of the Slack chat environment (e.g. in person, GitHub, social media), if necessary.
+*Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien écrit dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
 ## Slack Etiquette
 
