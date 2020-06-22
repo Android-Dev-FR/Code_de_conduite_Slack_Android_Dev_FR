@@ -95,3 +95,24 @@ For tips and tricks or questions about Slack usage, check out #meta.
 Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
 
 When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
+
+## Modération par les administrateurs
+
+Face à un comportement non adéquate d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble approprié.
+Cela va d'un simple avertissement à la désactivation du compte.
+
+Voici une liste d'actions non exhaustives que les administrateurs se réservent le droit de faire : 
+* Demander à une personne de reformuler ses propos en faisant preuve de communication non violente*.
+* Demander à une personne de s'excuser
+* Demander publiquement ou en privé à une personne de cesser les échanges sur un sujet considéré comme une entrave à cette charte
+* Supprimer un ou plusieurs messages, voire supprimer un thread complet
+* Banir temporairement ou définitivement une personne
+
+Les admins peuvent agir suite au signalement d'un comportement inadéquat par un ou plusieurs membres du groupe, ou de leur propre chef.
+
+#### Les règles de la communication non violente
+
+1. Observer sans juger
+2. Partager son ressenti en disant "Je" (pour marquer la subjectivité)
+3. Exprimer son besoin
+4. Demander sans exiger
