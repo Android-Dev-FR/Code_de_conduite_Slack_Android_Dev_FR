@@ -12,7 +12,7 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 ## Charte de bonne conduite
 
 
-### Le groupe slack *Android Dev FR* doit être un endroit sûr pour tous, peu importe
+### 1. Le groupe slack *Android Dev FR* doit être un endroit sûr pour tous, peu importe
 * le genre, l'identité du genre ou son expression
 * l'orientation sexuelle
 * les handicaps
@@ -21,7 +21,7 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 * l'âge
 * la religion
 
-### En tant que membre de ce groupe Slack, tu acceptes qu'en tant que communauté : 
+### 2. En tant que membre de ce groupe Slack, tu acceptes qu'en tant que communauté : 
 * Nous nous engageons collectivement et individuellement à en faire un endroit sûr et inclusif. 
 * Nous n'avons aucune tolérance pour les abus, le harcèlement ou la discrimination.
 * Nous respectons les limites personnelles et l'identité de chacun.
@@ -29,13 +29,13 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 * Nous évitons d'utiliser des sujets offensants comme forme d'humour (ou troll).
 
 
-### Nous travaillons activement à :
+### 3. Nous travaillons activement à :
 
 * Etre une communauté sûre et saine
 * Cultiver un réseau de soutien et d'encouragement pour tous
 * Encourager des formes d'expression responsables et variées
 
-### Nous condamnons :
+### 4. Nous condamnons :
 
 * Le traquage, le doxxing, et la divulgation d'informations privées
 * Les menaces de préjudices, le harcèlement
@@ -52,17 +52,13 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 * Présente tes excuses et demande le pardon.
 
 Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du Slack. En cas de récidive, ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement ce Slack.
-### Privacy
-* All conversations are private unless otherwise specified. 
-* If you wish to share a conversation, or part of one, you must get permission from each person involved.
 
-### Best Practices
-* Stay on topic. The goal of the ASG Slack is to facilitate discussion of things relating to Android development. This could be about marketing, business, server-side programming, or other things that may be important to an Android developer. For off-topic topics go to #random
-* If you have a technical question, please try and figure it out before posting here. If you're having trouble, all questions are welcome.
-* Before asking any questions, please check if there's a channel for it before asking in #android-general
-* Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
+### 5. Respect de la vie privée
 
-###Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité :
+* Toutes les conversations privées restent privées.
+* Si tu souhaites partager une conversation ou une partie de celle-ci, tu dois demander la permission de chaque personne impliquée dans celle-ci
+
+### 6. Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité :
 faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
 N'hésitez pas à contacter un autre administrateur en cas de non réponse.
 
@@ -79,21 +75,21 @@ Voici la liste des administrateurs ainsi que leurs identifiants Slack
 
 *Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
-## Slack
+### 7. Slack
 
-### Utilisation de Slack
+#### Utilisation de Slack
 
 N'oubliez pas que nombreux membres de Slack ont l'application ouverte pendant leur journée de travail, ou installé sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
 
 Pour toute question concernant le slack, un channel dédié #slack-requests vous permettra d'y obtenir des réponses.
 
-### Questions / Réponses
+#### Questions / Réponses
 
 Avant de poser une question, veuillez au préalable la rechercher sur Google et consulter la documentation Android. Si ce n'est toujours pas clair, essayez de faire référence aux sources que vous avez consultées.
 
 Lorsque vous répondez à des questions, évitez d'avoir des propos condescendants ou de véhiculer de l'impatience. Nous essayons tous de faire notre mieux !
 
-## Modération par les administrateurs
+### 8. Modération par les administrateurs
 
 Face à un comportement non adéquate d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble approprié.
 Cela va d'un simple avertissement à la désactivation du compte.
