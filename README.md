@@ -71,19 +71,19 @@ Voici la liste des administracteurs ainsi que leurs identifiants Slack
 
 *Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien écrit dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
-## Slack Etiquette
+## Slack
 
-### Slack Commands
+### Utilisation de Slack
 
-Many members of ASG have this Slack open during the work day, or installed on their phones. Additionally, there are members in many different time zones. Please be cautious about using  `@channel` or `@everyone` and avoid it if possible.
+N'oubliez pas que nombreux membres de Slack ont l'application ouverte pendant leur journée de travail, ou installé sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
 
-For tips and tricks or questions about Slack usage, check out #meta.
+Pour toute question concernant le slack, un channel dédié #slack-requests vous permettra d'y obtenir des réponses.
 
-### Q & A
+### Questions / Réponses
 
-Value your fellow members' time, and be considerate when asking questions. Before asking a question, please Google for it, and consult the Android documentation. If it is still unclear, please reference the sources you consulted in your question.
+Avant de poser une question, veuillez au préalable la rechercher sur Google et consulter la documentation Android. Si ce n'est toujours pas clair, essayez de faire référence aux sources que vous avez consultées.
 
-When answering questions, avoid condescending language or impatience. We are all trying our hardest! 
+Lorsque vous répondez à des questions, évitez d'avoir des propos condescendants ou de véhiculer de l'impatience. Nous essayons tous de faire notre mieux !
 
 ## Modération par les administrateurs
 
