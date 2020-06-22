@@ -63,7 +63,7 @@ Voici la liste des administracteurs ainsi que leurs identifiants Slack
 * Kevin de Jesus Ferreira - @Kevin DJFK 
 * Mikhael Lopez - @LopsPower 
 * Fanny Demey - @FannyDemey 
-* Eyal Lemzy - @eyal
+* Eyal Lezmy - @eyal
 * Benjamin Gonin - @benju
 * Antonin Fouques - @CmoaToto
 * Amaël Sikel - @r4dixx
