@@ -12,28 +12,28 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 ## Charte de bonne conduite
 
 
-### Le groupe slack *Android Dev FR* est un endroit sûr pour tout le monde quelque soit 
-* son genre
-* son orientation sexuelle
-* son handicap
-* son apparence physique 
-* sa race
-* son age
-* sa religion
+### Le groupe slack *Android Dev FR* doit être un endroit sûr pour tous, peu importe
+* le genre, l'identité du genre ou son expression
+* l'orientation sexuelle
+* les handicaps
+* l'apparence physique (y compris la taille/masse du corps)
+* les ethnies, pays d'origine et nationalités
+* l'âge
+* la religion
 
 ### En tant que membre de ce groupe Slack, tu acceptes qu'en tant que communauté : 
 * Nous nous engageons collectivement et individuellement à en faire un endroit sûr et inclusif. 
-* Nous ne tolérons aucune insulte, agression ou discrimation quelles qu'elles soient.
-* Nous respectons l'identité des personnes.
-* Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppresif par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale. 
-* Nous n'acceptons pas l'humour ou le *troll* sur ces sujets.
+* Nous n'avons aucune tolérance pour les abus, le harcèlement ou la discrimination.
+* Nous respectons les limites personnelles et l'identité de chacun.
+* Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppressif, par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale.
+* Nous évitons d'utiliser des sujets offensants comme forme d'humour (ou troll).
 
 
 ### Nous travaillons activement à :
 
-* Etre une communauté sûre
-* Développer un réseau de soutien et d'encouragement pour tous
-* Encourager l'utilisation d'une forme d'expression variée et responsable 
+* Etre une communauté sûre et saine
+* Cultiver un réseau de soutien et d'encouragement pour tous
+* Encourager des formes d'expression responsables et variées
 
 ### Nous condamnons :
 
@@ -44,15 +44,14 @@ Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses 
 
 **Ces comportements ne sont pas acceptables.**
 
-### Si tu dis quelque chose qui est jugé offensant, et qu'on te le fait remarquer, alors :
+### Si tu dis quelque chose qui est trouvé offensant, et qu'on te le fait remarquer :
 
-* Ecoutons sans interrompre
-* Faisons confiance en ce que la personne dit et n'essayons pas de discréditer ce qu'elle a à dire
-* Demandons des conseils / de l'aide pour éviter de commettre une nouvelle infraction
-* Présentons nos excuses et demandons pardon
+* Ecoute sans interrompre.
+* Crois ce que la personne dit et n'essaye pas de discréditer ce qu'elle a à dire.
+* Demande des conseils / de l'aide pour éviter de commettre une nouvelle infraction.
+* Présente tes excuses et demande le pardon.
 
-Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du Slack. En cas de récidive ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement ce Slack.
-
+Le non-respect des directives communautaires décrites dans ce document entraîne des conséquences. Pour des infractions mineures, vous pouvez être temporairement suspendu du Slack. En cas de récidive, ou si la communauté pense que vous n'agissez pas de bonne foi, il se peut que l'on vous demande de quitter définitivement ce Slack.
 ### Privacy
 * All conversations are private unless otherwise specified. 
 * If you wish to share a conversation, or part of one, you must get permission from each person involved.
@@ -63,8 +62,9 @@ Le non-respect des directives communautaires décrites dans ce document entraîn
 * Before asking any questions, please check if there's a channel for it before asking in #android-general
 * Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
-**Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité, faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
-N'hésitez pas à contacter un autre administrateur en cas de non réponse, ou de non action.
+###Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité :
+faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
+N'hésitez pas à contacter un autre administrateur en cas de non réponse.
 
 Voici la liste des administrateurs ainsi que leurs identifiants Slack
 
@@ -77,7 +77,7 @@ Voici la liste des administrateurs ainsi que leurs identifiants Slack
 * Benjamin Gonin - @benju
 * Antonin Fouques - @CmoaToto
 
-*Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien écrit dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
+*Le rôle des administrateurs est d'être un médiateur impartial, ils ne modéreront ni n'éditeront rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
 ## Slack
 
@@ -107,7 +107,7 @@ Voici une liste d'actions non exhaustives que les administrateurs se réservent 
 
 Les admins peuvent agir suite au signalement d'un comportement inadéquat par un ou plusieurs membres du groupe, ou de leur propre chef.
 
-#### Les règles de la communication non violente
+#### \*Les règles de la communication non violente
 
 1. Observer sans juger
 2. Partager son ressenti en disant "Je" (pour marquer la subjectivité)
