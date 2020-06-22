@@ -54,7 +54,8 @@ Failing to follow the community guidelines as described in this document carries
 * Before asking any questions, please check if there's a channel for it before asking in #android-general
 * Job posting can be posted in #hiring only. Do not reach out to individuals for hiring purposes.
 
-**Si vous trouvez qu'un utilisateur ne respecte pas la charte, que vous vous sentez offensé, harcelé, discriminé, n'hésitez pas à contacter nos administrateurs, ils prendront la parole à votre place et mettront un terme aux conflicts.**
+**Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité, faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
+N'hésitez pas à contacter un autre administrateur en cas de non réponse, ou de non action.
 
 Voici la liste des administracteurs ainsi que leurs identifiants Slack
 
