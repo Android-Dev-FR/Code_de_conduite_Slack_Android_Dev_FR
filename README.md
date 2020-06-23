@@ -4,15 +4,15 @@
 
 ## Objectif du groupe 
 
-Le groupe slack *Android Dev FR* est une communauté **francophone** rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant le même intérêt.
+Le groupe Slack *Android Dev FR* est une communauté **francophone** rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant le même intérêt.
 
 C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
-Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie.
+Voici un rappel de ce qui n'est pas toléré sur ce Slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie.
 
 ## Code de conduite
 
 
-### 1. Le groupe slack *Android Dev FR* doit être un endroit sûr pour tous, peu importe
+### 1. Le groupe Slack *Android Dev FR* doit être un endroit sûr pour tous, peu importe
 * le genre, l'identité du genre ou son expression
 * l'orientation sexuelle
 * les handicaps
@@ -82,7 +82,7 @@ Voici la liste des administrateurs ainsi que leurs identifiants Slack
 
 N'oubliez pas que de nombreux membres du Slack ont l'application ouverte pendant leur journée de travail, ou installée sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
 
-Pour toute question concernant le slack, un channel dédié #slack-requests vous permettra d'y obtenir des réponses.
+Pour toute question concernant le Slack, un channel dédié #slack-requests vous permettra d'y obtenir des réponses.
 
 #### Questions / Réponses
 
@@ -92,7 +92,7 @@ Lorsque vous répondez à des questions, évitez d'avoir des propos condescendan
 
 ### 8. Modération par les administrateurs
 
-Face à un comportement non adéquat d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble appropriée.
+Face à un comportement non adéquat d'une personne sur cet espace Slack, l'équipe d'admins peut prendre toute action qui lui semble appropriée.
 Cela va d'un simple avertissement à la désactivation du compte.
 
 Voici une liste d'actions non exhaustives que les administrateurs se réservent le droit de faire : 
