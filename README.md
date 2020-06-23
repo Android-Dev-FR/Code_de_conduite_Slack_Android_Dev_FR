@@ -112,7 +112,7 @@ Les admins peuvent agir suite au signalement d'un comportement inadéquat par un
 4. Demander sans exiger
 
 
-### Credit
+### Crédit
 
 Merci aux contributeurs du ["Code of conduct" de la communauté Android Study Group](https://github.com/AndroidStudyGroup/Code-Of-Conduct).
 La 1ère version de ce code de conduite a été en grande partie une traduction de leur travail.
