@@ -62,7 +62,7 @@ Le non-respect des directives communautaires décrites dans ce document entraîn
 faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
 N'hésitez pas à contacter un autre administrateur en cas de non réponse.
 
-Voici la liste des administrateurs ainsi que leurs identifiants Slack
+Voici la liste des administrateurs ainsi que leurs identifiants Slack :
 
 * Florent Champigny - @Florent Champigny 
 * Louis CAD - @LouisCAD
@@ -110,3 +110,9 @@ Les admins peuvent agir suite au signalement d'un comportement inadéquat par un
 2. Partager son ressenti en disant "Je" (pour marquer la subjectivité)
 3. Exprimer son besoin
 4. Demander sans exiger
+
+
+### Credit
+
+Merci aux contributeurs du ["Code of conduct" de la communauté Android Study Group](https://github.com/AndroidStudyGroup/Code-Of-Conduct).
+La 1ère version de ce code de conduite a été en grande partie une traduction de leur travail.
