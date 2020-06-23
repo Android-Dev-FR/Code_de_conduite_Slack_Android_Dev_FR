@@ -91,7 +91,7 @@ Lorsque vous répondez à des questions, évitez d'avoir des propos condescendan
 
 ### 8. Modération par les administrateurs
 
-Face à un comportement non adéquate d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble appropriée.
+Face à un comportement non adéquat d'une personne sur cet espace slack, l'équipe d'admins peut prendre toute action qui lui semble appropriée.
 Cela va d'un simple avertissement à la désactivation du compte.
 
 Voici une liste d'actions non exhaustives que les administrateurs se réservent le droit de faire : 
