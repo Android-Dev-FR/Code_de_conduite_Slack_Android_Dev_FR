@@ -73,7 +73,7 @@ Voici la liste des administrateurs ainsi que leurs identifiants Slack
 * Benjamin Gonin - @benju
 * Antonin Fouques - @CmoaToto
 
-*Le rôle d'un administrateur est d'être un médiateur impartial, il ne modére ni n'édite rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
+*Le rôle d'un administrateur est d'être un médiateur impartial, il ne modère ni n'édite rien dans le Slack sauf si cela est nécessaire à la suite d'un différend discuté.*
 
 ### 7. Slack
 
