@@ -1,4 +1,4 @@
-# Charte de bonne conduite du groupe slack Android Dev FR
+# Code de conduite du groupe Slack Android Dev FR
 
 *Ce document n'est pas gravé dans le marbre et est sujet à évolution et amélioration dans le temps.*
 
@@ -9,7 +9,7 @@ Le groupe slack *Android Dev FR* est une communauté **francophone** rassemblant
 C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
 Voici un rappel de ce qui n'est pas toléré sur ce slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie.
 
-## Charte de bonne conduite
+## Code de conduite
 
 
 ### 1. Le groupe slack *Android Dev FR* doit être un endroit sûr pour tous, peu importe
