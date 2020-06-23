@@ -79,7 +79,7 @@ Voici la liste des administrateurs ainsi que leurs identifiants Slack
 
 #### Utilisation de Slack
 
-N'oubliez pas que nombreux membres de Slack ont l'application ouverte pendant leur journée de travail, ou installée sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
+N'oubliez pas que de nombreux membres du Slack ont l'application ouverte pendant leur journée de travail, ou installée sur leurs téléphones. En outre, il existe des membres dans de nombreux fuseaux horaires différents. Veuillez être prudent lorsque vous utilisez @channel et évitez-le si possible.
 
 Pour toute question concernant le slack, un channel dédié #slack-requests vous permettra d'y obtenir des réponses.
 
