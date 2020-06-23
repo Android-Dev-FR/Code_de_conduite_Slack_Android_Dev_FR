@@ -87,7 +87,7 @@ Pour toute question concernant le slack, un channel dédié #slack-requests vous
 
 Avant de poser une question, veuillez au préalable la rechercher sur Google et consulter la documentation Android. Si ce n'est toujours pas clair, essayez de faire référence aux sources que vous avez consultées.
 
-Lorsque vous répondez à des questions, évitez d'avoir des propos condescendants ou de véhiculer de l'impatience. Nous essayons tous de faire notre mieux !
+Lorsque vous répondez à des questions, évitez d'avoir des propos condescendants ou de véhiculer de l'impatience. Nous essayons tous de faire de notre mieux !
 
 ### 8. Modération par les administrateurs
 
