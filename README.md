@@ -56,7 +56,7 @@ Le non-respect des directives communautaires décrites dans ce document entraîn
 ### 5. Respect de la vie privée
 
 * Toutes les conversations privées restent privées.
-* Si tu souhaites partager une conversation ou une partie de celle-ci, tu dois demander la permission de chaque personne impliquée dans celle-ci
+* Si tu souhaites partager une conversation ou une partie de celle-ci, tu dois obtenir la permission de chaque personne impliquée dedans.
 
 ### 6. Si vous faites l'expérience d'un abus, de harcèlement, de discrimination, d'offense, ou ne vous sentez pas en sécurité :
 faites le savoir à un administrateur, elle/il se chargera de mettre un terme au problème.**
