@@ -7,7 +7,7 @@
 Le groupe Slack *Android Dev FR* est une communauté **francophone** rassemblant des personnes passionnées par le développement Android. L'objectif de ce groupe est de favoriser l'entraide et le partage de connaissances. C'est un endroit convivial permettant de rencontrer d’autres personnes partageant le même intérêt.
 
 C'est également une communauté ouverte et engagée, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté au sein de celui-ci. 
-Voici un rappel de ce qui n'est pas toléré sur ce Slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie.
+Voici un rappel de ce qui n'est pas toléré sur ce Slack : blagues ou offenses à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
 
 ## Code de conduite
 
@@ -26,7 +26,7 @@ Voici un rappel de ce qui n'est pas toléré sur ce Slack : blagues ou offenses 
 * Nous n'avons aucune tolérance pour les abus, le harcèlement ou la discrimination.
 * Nous respectons les limites personnelles et l'identité de chacun.
 * Nous nous abstenons d'utiliser un langage qui peut être considéré comme oppressif, par exemple sexiste, raciste, homophobique, transphobique ainsi que des critiques concernant le handicap, le physique ou la classe sociale.
-* Nous évitons d'utiliser des sujets offensants comme forme d'humour (ou troll).
+* Nous évitons d'utiliser des sujets offensants comme forme d'humour (ou troll) nottament à propos de : sexualité / genre / race / religion / nationalité / morphologie / âge.
 
 
 ### 3. Nous travaillons activement à :
